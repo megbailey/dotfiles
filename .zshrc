@@ -1,4 +1,4 @@
-PS1="🌿 %n@%m-> "
+PS1="🌿 %n@%m:[%1~] % -> "
 alias weather="curl wttr.in"
 alias e="echo 'see you later.' && exit "
 
